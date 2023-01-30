@@ -1,0 +1,218 @@
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\App.g.cs
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Toma\source\repos\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\Toma\source\repos\dfwltest\bin\Debug\itextsharp.xml
+D:\diniotpremnica\dfwltest\bin\Debug\dfwltest.exe.config
+D:\diniotpremnica\dfwltest\bin\Debug\dfwltest.exe
+D:\diniotpremnica\dfwltest\bin\Debug\dfwltest.pdb
+D:\diniotpremnica\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+D:\diniotpremnica\dfwltest\bin\Debug\itextsharp.dll
+D:\diniotpremnica\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.AccessControl.dll
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.Permissions.dll
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+D:\diniotpremnica\dfwltest\bin\Debug\itextsharp.xml
+D:\diniotpremnica\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.AccessControl.xml
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.Permissions.xml
+D:\diniotpremnica\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+D:\diniotpremnica\dfwltest\obj\Debug\MainWindow.g.cs
+D:\diniotpremnica\dfwltest\obj\Debug\App.g.cs
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+D:\diniotpremnica\dfwltest\obj\Debug\MainWindow.baml
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.g.resources
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.exe
+D:\diniotpremnica\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\App.g.cs
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\marko\OneDrive\Radna površina\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Toma\Desktop\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\App.g.cs
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\App.g.cs
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\wetransfer-1c94e8\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\App.g.cs
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\Toma\Downloads\dfwltest\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\App.g.cs
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\dfwltest\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\dfwltest.exe.config
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\itextsharp.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\itextsharp.xml
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.csprojAssemblyReference.cache
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\MainWindow.g.cs
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\App.g.cs
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest_MarkupCompile.cache
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest_MarkupCompile.lref
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\MainWindow.baml
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.g.resources
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.Properties.Resources.resources
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.csproj.GenerateResource.cache
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.csproj.CopyComplete
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.exe
+C:\Users\Toma\Desktop\a12Program\dfwltest\obj\Debug\dfwltest.pdb
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Toma\Desktop\a12Program\dfwltest\bin\Debug\System.Data.SQLite.xml
